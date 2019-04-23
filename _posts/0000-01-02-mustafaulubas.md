@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hey my name is Mustafa !
+Hi there! Break a leg! !
 Use the left arrow to go back!
